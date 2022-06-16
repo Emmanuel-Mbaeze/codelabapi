@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+         "name":"Toheeb",
+         "Course":"Backend",
+         "time":"one year"
+    },
+    {
+        "id": "2",
+        "name":"Victor",
+        "Course":"Backend",
+        "time":"one year"
+    },
+    {
+        "id": "3",
+        "name":"Tobi",
+        "Course":"UI/UX",
+        "time":"6 months"
+    },
+    {
+        "id": "4",
+        "name":"Bello",
+        "Course":"Backend",
+        "time":"one year"
+    },
+    {
+        "id": "5",
+        "name":"Emmanuel",
+        "Course":"Frontend",
+        "time":"one year"
+    },
+    {
+        "id": "6",
+        "name":"Cynthia",
+        "Course":"Project Managament",
+        "time":"6 months"
+    },
+    {
+        "id": "7",
+        "name":"Dickson",
+        "Course":"Frontend",
+        "time":"one year"
+    },
+    {
+        "id": "8",
+        "name":"Blessing",
+         "Course":"TL",
+         "time":"6 months"
+    },
+    {
+        "id": "9",
+        "name":"Nelson",
+        "Course":"Backend",
+        "time":"one year"
+    },
+    {
+        "id": "10",
+        "name":"Precious",
+        "Course":"UI/UX",
+        "time":"6 months"
+    }
+]
